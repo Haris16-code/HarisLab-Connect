@@ -59,10 +59,11 @@ Curious how it works?
 ## 📦 How It Works
 
 1. **Sign Up / Log In** to your dashboard.
-2. **Create & customize** your forms (contact, feedback, newsletter signup, etc.).
-3. **Embed a snippet** on your website—done!
-4. **Receive & manage submissions** with real-time updates and notifications.
-5. **Organize subscribers** and schedule engaging email campaigns.
+2. **[Get Premium Plan](https://connect.harislab.tech/#pricing)** To Access All Features.
+3. **Create & customize** your forms (contact, feedback, newsletter signup, etc.).
+4. **Embed a snippet** on your website—done!
+5. **Receive & manage submissions** with real-time updates and notifications.
+6. **Organize subscribers** and schedule engaging email campaigns.
 
 ---
 
