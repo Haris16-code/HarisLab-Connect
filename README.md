@@ -50,6 +50,7 @@ Curious how it works?
 
 - Website owners who want a plug-and-play contact form
 - Small businesses collecting leads, inquiries, or feedback
+- Create, and send newsletters or announcements with custom branding and professional templates.
 - Newsletter management and scheduled email campaigns
 - Community managers building email lists with zero hassle
 
